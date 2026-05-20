@@ -2,32 +2,9 @@
   "syncEnabled": true,
   "githubOwner": "dobleuuw",
   "githubRepo": "cyberseguridad",
-  "githubBranch": "main",
+  "githubBranch": "master",
   "githubToken": "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",
   "lastSyncTime": 0,
   "vault": "cyberseguridad",
-  "clipboardReadTip": "",
-  "syncData": {
-    "files": {
-      "README.md": {
-        "sha": "f171ab93ca26934406dba824ef39561617f70b6e",
-        "lastSync": 1779286559162,
-        "hash": "-310873763"
-      },
-      "Untitled.md": {
-        "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
-        "lastSync": 1779286809813,
-        "hash": "0"
-      },
-      "cyberseguridad/El profe no explica.md": {
-        "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
-        "lastSync": 1779286810092,
-        "hash": "0"
-      },
-      ".obsidian/sync-stats.json": {
-        "sha": "f1930bc26518732f9c2d545973ece49a16aa5a6d",
-        "lastSync": 1779286811475
-      }
-    }
-  }
+  "clipboardReadTip": ""
 }
