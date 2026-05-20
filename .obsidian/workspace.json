@@ -20,22 +20,8 @@
               "icon": "lucide-file",
               "title": "Crea un archivo JSON en la consola de Cloud"
             }
-          },
-          {
-            "id": "ba4701754b9f368c",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Untitled 1.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "Untitled 1"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.base",
+                "file": "cyberseguridad/Crea un archivo JSON en la consola de Cloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled 1"
+              "title": "Backlinks for Crea un archivo JSON en la consola de Cloud"
             }
           },
           {
@@ -170,27 +156,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.base",
+                "file": "cyberseguridad/Crea un archivo JSON en la consola de Cloud.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 1"
-            }
-          },
-          {
-            "id": "4e1793794b7d580d",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of Crea un archivo JSON en la consola de Cloud"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -205,17 +181,18 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "github-sync-multi-platform:Obsidian-Github-Sync-Multi-Platform: Sync all notes": false
     }
   },
-  "active": "70054f4ad44d519b",
+  "active": "f7b9fae51348437c",
   "lastOpenFiles": [
-    "cyberseguridad/El profe no explica.md",
     "Untitled 1.base",
+    "cyberseguridad/El profe no explica.md",
+    "README.md",
     "Untitled.md",
     "cyberseguridad/Crea un archivo JSON en la consola de Cloud.md",
     "Portafolio/wfwe.md",
-    "README.md",
     "Untitled",
     "cyberseguridad/Crear bucket con CLI Google Cloud.md",
     "Untitled.base",
