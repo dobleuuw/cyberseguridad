@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.base",
+                "file": "cyberseguridad/Crea un archivo JSON en la consola de Cloud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from Crea un archivo JSON en la consola de Cloud"
             }
           },
           {
@@ -164,9 +164,19 @@
               "icon": "lucide-list",
               "title": "Outline of Crea un archivo JSON en la consola de Cloud"
             }
+          },
+          {
+            "id": "a8f58b81a54d5eef",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -182,10 +192,11 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "github-sync-multi-platform:Obsidian-Github-Sync-Multi-Platform: Sync all notes": false
+      "github-sync-multi-platform:Obsidian-Github-Sync-Multi-Platform: Sync all notes": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "f7b9fae51348437c",
+  "active": "9d9d69a246bb7141",
   "lastOpenFiles": [
     "Untitled 1.base",
     "cyberseguridad/El profe no explica.md",
