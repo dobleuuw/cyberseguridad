@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cyberseguridad/Crea un archivo JSON en la consola de Cloud.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Crea un archivo JSON en la consola de Cloud"
+              "title": "README"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cyberseguridad/Crea un archivo JSON en la consola de Cloud.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Crea un archivo JSON en la consola de Cloud"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cyberseguridad/Crea un archivo JSON en la consola de Cloud.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Crea un archivo JSON en la consola de Cloud"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cyberseguridad/Crea un archivo JSON en la consola de Cloud.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Crea un archivo JSON en la consola de Cloud"
+              "title": "Outline of README"
             }
           },
           {
@@ -196,13 +196,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "9d9d69a246bb7141",
+  "active": "f7b9fae51348437c",
   "lastOpenFiles": [
-    "Untitled 1.base",
-    "cyberseguridad/El profe no explica.md",
+    "Pasted image 20260519124930.png",
     "README.md",
-    "Untitled.md",
     "cyberseguridad/Crea un archivo JSON en la consola de Cloud.md",
+    "cyberseguridad/El profe no explica.md",
+    "Untitled 1.base",
+    "Untitled.md",
     "Portafolio/wfwe.md",
     "Untitled",
     "cyberseguridad/Crear bucket con CLI Google Cloud.md",

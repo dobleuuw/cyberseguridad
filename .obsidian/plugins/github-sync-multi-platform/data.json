@@ -6,5 +6,28 @@
   "githubToken": "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",
   "lastSyncTime": 0,
   "vault": "cyberseguridad",
-  "clipboardReadTip": ""
+  "clipboardReadTip": "",
+  "syncData": {
+    "files": {
+      "README.md": {
+        "sha": "f171ab93ca26934406dba824ef39561617f70b6e",
+        "lastSync": 1779286559162,
+        "hash": "-310873763"
+      },
+      "Untitled.md": {
+        "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+        "lastSync": 1779286729016,
+        "hash": "0"
+      },
+      "cyberseguridad/El profe no explica.md": {
+        "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+        "lastSync": 1779286729321,
+        "hash": "0"
+      },
+      ".obsidian/sync-stats.json": {
+        "sha": "060b21c67b8b274eeae0065d6c4e5ab0c4f675dc",
+        "lastSync": 1779286730403
+      }
+    }
+  }
 }
