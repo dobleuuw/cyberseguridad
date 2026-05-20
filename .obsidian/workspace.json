@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyberseguridad/Neighbour Tryhackme.md",
+                "file": "Untitled 1.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Neighbour Tryhackme"
+              "title": "Backlinks for Untitled 1"
             }
           },
           {
@@ -208,7 +208,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ba4701754b9f368c",
+  "active": "70054f4ad44d519b",
   "lastOpenFiles": [
     "cyberseguridad/El profe no explica.md",
     "Untitled 1.base",
