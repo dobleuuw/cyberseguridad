@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "cyberseguridad/PubSub Google Cloud.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "PubSub Google Cloud"
             }
           }
         ]
@@ -198,30 +198,32 @@
   },
   "active": "f7b9fae51348437c",
   "lastOpenFiles": [
+    "Pasted image 20260521140611.png",
+    "Pasted image 20260521140539.png",
+    "Pasted image 20260521140522.png",
+    "Pasted image 20260521140448.png",
+    "Pasted image 20260521140408.png",
+    "Pasted image 20260521140318.png",
+    "Pasted image 20260521140231.png",
+    "Pasted image 20260521140026.png",
+    "Pasted image 20260521135907.png",
+    "Pasted image 20260521135808.png",
+    "Pasted image 20260521135709.png",
     "README.md",
-    "Pasted image 20260519124930.png",
+    "cyberseguridad/PubSub Google Cloud.md",
+    "PubSub Google Cloud",
     "cyberseguridad/Crea un archivo JSON en la consola de Cloud.md",
     "cyberseguridad/El profe no explica.md",
     "Untitled 1.base",
     "Untitled.md",
     "Portafolio/wfwe.md",
-    "Untitled",
     "cyberseguridad/Crear bucket con CLI Google Cloud.md",
     "Untitled.base",
-    "Pasted image 20260518083101.png",
     "Portafolio",
     "Cyberseguridad/remote-blog.md",
     "remote-blog/publish/home.md",
     "cyberseguridad/Crear una instancia de Cloud SQL para MYSQL.md",
     "cyberseguridad/Neighbour Tryhackme.md",
-    "Pasted image 20260519134054.png",
-    "Pasted image 20260519134006.png",
-    "Pasted image 20260519133506.png",
-    "Pasted image 20260519133133.png",
-    "Pasted image 20260519133038.png",
-    "Pasted image 20260519131132.png",
-    "Pasted image 20260519131054.png",
-    "Pasted image 20260519130900.png",
     "remote-blog/README.md",
     "remote-blog/publish/works-out-of-the-box-with-markdown-files.md",
     "remote-blog/publish/update-publish-settings-github-actions.md",
@@ -239,7 +241,6 @@
     "remote-blog/publish",
     "remote-blog",
     "clone.md",
-    "Cyberseguridad/Clone.md",
     "cyberseguridad"
   ]
 }
