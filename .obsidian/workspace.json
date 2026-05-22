@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cyberseguridad/PubSub Google Cloud.md",
+                "file": "cyberseguridad/Create a Managed Apache Spark cluster using the command line.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PubSub Google Cloud"
+              "title": "Create a Managed Apache Spark cluster using the command line"
             }
           }
         ]
@@ -61,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Buscar"
+              "title": "Search"
             }
           },
           {
@@ -198,19 +198,21 @@
   },
   "active": "f7b9fae51348437c",
   "lastOpenFiles": [
+    "Pasted image 20260522182923.png",
+    "Pasted image 20260522182822.png",
+    "Pasted image 20260522182740.png",
+    "Pasted image 20260522182639.png",
+    "Pasted image 20260522182554.png",
+    "Pasted image 20260522182455.png",
+    "cyberseguridad/PubSub Google Cloud.md",
+    "cyberseguridad/Create a Managed Apache Spark cluster using the command line.md",
+    "2026-05-22.md",
     "Pasted image 20260521140611.png",
     "Pasted image 20260521140539.png",
     "Pasted image 20260521140522.png",
     "Pasted image 20260521140448.png",
     "Pasted image 20260521140408.png",
-    "Pasted image 20260521140318.png",
-    "Pasted image 20260521140231.png",
-    "Pasted image 20260521140026.png",
-    "Pasted image 20260521135907.png",
-    "Pasted image 20260521135808.png",
-    "Pasted image 20260521135709.png",
     "README.md",
-    "cyberseguridad/PubSub Google Cloud.md",
     "PubSub Google Cloud",
     "cyberseguridad/Crea un archivo JSON en la consola de Cloud.md",
     "cyberseguridad/El profe no explica.md",
@@ -237,10 +239,8 @@
     "remote-blog/publish/deploy-a-custom-linked-blog-starter.md",
     "remote-blog/publish/connect-obsidian-vault-with-github.md",
     "remote-blog/publish/attachments",
-    "remote-blog/publish/accepted-markdown-metadata.md",
     "remote-blog/publish",
     "remote-blog",
-    "clone.md",
     "cyberseguridad"
   ]
 }
