@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted image 20260518083403.png"
+                "file": "cyberseguridad/Imagenes/Pasted image 20260518083403.png"
               },
               "icon": "lucide-image",
               "title": "Pasted image 20260518083403"
@@ -25,7 +25,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted image 20260518175556.png"
+                "file": "cyberseguridad/Imagenes/Pasted image 20260518175556.png"
               },
               "icon": "lucide-image",
               "title": "Pasted image 20260518175556"
@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cyberseguridad/Crea un archivo JSON en la consola de Cloud.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Crea un archivo JSON en la consola de Cloud"
+              "title": "README"
             }
           }
         ],
@@ -221,35 +221,35 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "8562862081d480c0",
+  "active": "f7db2ee6602181b6",
   "lastOpenFiles": [
+    "Untitled.md",
+    "README.md",
+    "Untitled.base",
+    "cyberseguridad/Imagenes/Pasted image 20260519131132.png",
+    "cyberseguridad/Imagenes/Pasted image 20260518083403.png",
+    "cyberseguridad/Crea un archivo JSON en la consola de Cloud.md",
     "cyberseguridad/Neighbour Tryhackme.md",
     "cyberseguridad/Imagenes/Pasted image 20260519133133.png",
-    "Pasted image 20260519131054.png",
-    "Pasted image 20260519130821.png",
-    "Pasted image 20260519125023.png",
-    "Pasted image 20260518180027.png",
-    "Pasted image 20260518175702.png",
-    "Pasted image 20260518083403.png",
-    "Pasted image 20260518175556.png",
-    "Pasted image 20260519131132.png",
-    "Pasted image 20260522182740.png",
-    "cyberseguridad/PubSub Google Cloud.md",
+    "cyberseguridad/Imagenes/Pasted image 20260519131054.png",
+    "cyberseguridad/Imagenes/Pasted image 20260519130821.png",
+    "cyberseguridad/Imagenes/Pasted image 20260519125023.png",
+    "cyberseguridad/Imagenes/Pasted image 20260518180027.png",
+    "cyberseguridad/Imagenes/Pasted image 20260518175702.png",
+    "cyberseguridad/Imagenes/Pasted image 20260518175556.png",
+    "cyberseguridad/Imagenes/Pasted image 20260522182740.png",
+    "cyberseguridad/Imagenes/PubSub Google Cloud.md",
     "cyberseguridad/Imagenes/Pasted.md",
     "cyberseguridad/Create a Managed Apache Spark cluster using the command line.md",
     "cyberseguridad/Crear una instancia de Cloud SQL para MYSQL.md",
     "cyberseguridad/Crear bucket con CLI Google Cloud.md",
-    "cyberseguridad/Crea un archivo JSON en la consola de Cloud.md",
     "cyberseguridad/Imagenes",
     "cyberseguridad/Untitled.base",
-    "Untitled.md",
     "Untitled 1.md",
     "Untitled 1.base",
     "Pasted image 20260518083101.png.md",
     "cyberseguridad/El profe no explica.md",
     "2026-05-22.md",
-    "Untitled.base",
-    "README.md",
     "PubSub Google Cloud",
     "Portafolio/wfwe.md",
     "Portafolio",
