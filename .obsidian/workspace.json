@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "cyberseguridad/Pasted image 20260518083846.png"
+                "file": "Pasted image 20260518083846.png"
               },
               "icon": "lucide-image",
               "title": "Pasted image 20260518083846"
@@ -194,10 +194,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "f7db2ee6602181b6",
+  "active": "f7b9fae51348437c",
   "lastOpenFiles": [
+    "cyberseguridad/Neighbour Tryhackme.md",
+    "cyberseguridad/PubSub Google Cloud.md",
+    "![[Pasted image 20260518083101.png.md",
+    "Pasted image 20260518083846.png",
     "Pasted image 20260518175556.png",
-    "cyberseguridad/Pasted image 20260518083846.png",
     "Pasted image 20260518083403.png",
     "2026-05-22.md",
     "cyberseguridad/Crea un archivo JSON en la consola de Cloud.md",
@@ -211,8 +214,6 @@
     "Pasted image 20260522182740.png",
     "Pasted image 20260522182822.png",
     "Pasted image 20260522182923.png",
-    "cyberseguridad/Neighbour Tryhackme.md",
-    "cyberseguridad/PubSub Google Cloud.md",
     "Pasted image 20260518083101.png",
     "cyberseguridad/Create a Managed Apache Spark cluster using the command line.md",
     "Pasted image 20260522182455.png",
@@ -234,7 +235,6 @@
     "remote-blog/publish/how-linked-blog-starter-works.md",
     "remote-blog/publish/get-project-id-account-id-and-token-vercel.md",
     "remote-blog/publish/deploy-a-custom-linked-blog-starter.md",
-    "remote-blog/publish/connect-obsidian-vault-with-github.md",
     "remote-blog/publish/attachments",
     "remote-blog/publish",
     "remote-blog",
