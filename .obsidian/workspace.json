@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cyberseguridad/Neighbour Tryhackme.md",
+                "file": "cyberseguridad/Crea un archivo JSON en la consola de Cloud.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Neighbour Tryhackme"
+              "title": "Crea un archivo JSON en la consola de Cloud"
             }
           }
         ],
@@ -223,7 +223,8 @@
   },
   "active": "8562862081d480c0",
   "lastOpenFiles": [
-    "Pasted image 20260519133133.png",
+    "cyberseguridad/Neighbour Tryhackme.md",
+    "cyberseguridad/Imagenes/Pasted image 20260519133133.png",
     "Pasted image 20260519131054.png",
     "Pasted image 20260519130821.png",
     "Pasted image 20260519125023.png",
@@ -233,8 +234,6 @@
     "Pasted image 20260518175556.png",
     "Pasted image 20260519131132.png",
     "Pasted image 20260522182740.png",
-    "Pasted image 20260522182822.png",
-    "cyberseguridad/Neighbour Tryhackme.md",
     "cyberseguridad/PubSub Google Cloud.md",
     "cyberseguridad/Imagenes/Pasted.md",
     "cyberseguridad/Create a Managed Apache Spark cluster using the command line.md",
