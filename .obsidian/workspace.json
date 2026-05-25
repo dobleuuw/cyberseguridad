@@ -4,25 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "a45049573fe1d2da",
+        "id": "67f33ff0e5e4634b",
         "type": "tabs",
         "children": [
           {
-            "id": "f7b9fae51348437c",
+            "id": "d70846cd7672a43c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "cyberseguridad/Neighbour Tryhackme.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20260518083403.png"
               },
-              "icon": "lucide-file",
-              "title": "Neighbour Tryhackme"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260518083403"
             }
           },
           {
-            "id": "7864bd5554fb9b23",
+            "id": "05219c2fc57d5e8f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20260518175556.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260518175556"
+            }
+          },
+          {
+            "id": "8562862081d480c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -211,40 +221,41 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "7864bd5554fb9b23",
+  "active": "8562862081d480c0",
   "lastOpenFiles": [
-    "cyberseguridad/Create a Managed Apache Spark cluster using the command line.md",
-    "cyberseguridad/Neighbour Tryhackme.md",
-    "cyberseguridad/Imagenes/Pasted image 20260518083846.png",
-    "cyberseguridad/Imagenes/Pasted.md",
-    "cyberseguridad/PubSub Google Cloud.md",
+    "Pasted image 20260519133133.png",
+    "Pasted image 20260519131054.png",
+    "Pasted image 20260519130821.png",
+    "Pasted image 20260519125023.png",
+    "Pasted image 20260518180027.png",
+    "Pasted image 20260518175702.png",
     "Pasted image 20260518083403.png",
+    "Pasted image 20260518175556.png",
+    "Pasted image 20260519131132.png",
+    "Pasted image 20260522182740.png",
+    "Pasted image 20260522182822.png",
+    "cyberseguridad/Neighbour Tryhackme.md",
+    "cyberseguridad/PubSub Google Cloud.md",
+    "cyberseguridad/Imagenes/Pasted.md",
+    "cyberseguridad/Create a Managed Apache Spark cluster using the command line.md",
+    "cyberseguridad/Crear una instancia de Cloud SQL para MYSQL.md",
+    "cyberseguridad/Crear bucket con CLI Google Cloud.md",
     "cyberseguridad/Crea un archivo JSON en la consola de Cloud.md",
     "cyberseguridad/Imagenes",
     "cyberseguridad/Untitled.base",
     "Untitled.md",
     "Untitled 1.md",
     "Untitled 1.base",
-    "Pasted image 20260518175556.png",
     "Pasted image 20260518083101.png.md",
     "cyberseguridad/El profe no explica.md",
     "2026-05-22.md",
-    "cyberseguridad/Crear bucket con CLI Google Cloud.md",
     "Untitled.base",
     "README.md",
-    "Pasted image 20260522182554.png",
-    "Pasted image 20260522182639.png",
-    "Pasted image 20260522182740.png",
-    "Pasted image 20260522182822.png",
-    "Pasted image 20260522182923.png",
-    "Pasted image 20260518083101.png",
-    "Pasted image 20260522182455.png",
     "PubSub Google Cloud",
     "Portafolio/wfwe.md",
     "Portafolio",
     "Cyberseguridad/remote-blog.md",
     "remote-blog/publish/home.md",
-    "cyberseguridad/Crear una instancia de Cloud SQL para MYSQL.md",
     "remote-blog/README.md",
     "remote-blog/publish/works-out-of-the-box-with-markdown-files.md",
     "remote-blog/publish/update-publish-settings-github-actions.md",
