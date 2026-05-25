@@ -1,6 +1,6 @@
-Comprobamos que la API este habilitada:
 
-![[Pasted image 20260519133038.png]]
+
+
 
 1. En Cloud Shell, ejecutamos el siguiente comando para crear y editar un archivo llamado `values.json:`
 
