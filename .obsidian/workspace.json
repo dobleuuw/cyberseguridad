@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cyberseguridad/- Crear Bucket con CLI de Google Cloud ].md",
+                "file": "cyberseguridad/- Crea un archivo JSON en la consola de Cloud.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "- Crear Bucket con CLI de Google Cloud ]"
+              "title": "- Crea un archivo JSON en la consola de Cloud"
             }
           }
         ]
@@ -198,23 +198,25 @@
   },
   "active": "422bc7d30f222ca6",
   "lastOpenFiles": [
+    "cyberseguridad/Imagenes/Pasted image 20260527195411.png",
     "cyberseguridad/Crea un archivo JSON en la consola de Cloud.md",
+    "cyberseguridad/- Crea un archivo JSON en la consola de Cloud.md",
+    "cyberseguridad/Imagenes/Pasted image 20260527195333.png",
+    "cyberseguridad/Imagenes/Pasted image 20260527195247.png",
+    "cyberseguridad/Imagenes/Pasted image 20260527195214.png",
+    "cyberseguridad/Imagenes/Pasted image 20260527195128.png",
     "cyberseguridad/- Crear Bucket con CLI de Google Cloud ].md",
+    "cyberseguridad/Imagenes/Pasted image 20260527195022.png",
+    "cyberseguridad/Imagenes/Pasted image 20260527194541.png",
     "cyberseguridad/Crear bucket con CLI Google Cloud.md",
     "cyberseguridad/Imagenes/Pasted image 20260527194205.png",
     "cyberseguridad/Imagenes/Pasted image 20260527194138.png",
     "cyberseguridad/Imagenes/Pasted image 20260527194051.png",
     "cyberseguridad/Imagenes/Pasted image 20260527194037.png",
-    "cyberseguridad/Imagenes/Pasted image 20260527193652.png",
     "cyberseguridad/PubSub Google Cloud.md",
     "cyberseguridad/Neighbour Tryhackme.md",
     "cyberseguridad/fasdfs.md",
-    "cyberseguridad/Imagenes/Pasted image 20260521135443.png",
     "cyberseguridad/Create a Managed Apache Spark cluster using the command line.md",
-    "cyberseguridad/Imagenes/Pasted image 20260518083403.png",
-    "cyberseguridad/Imagenes/Pasted image 20260518175850.png",
-    "cyberseguridad/Imagenes/Pasted image 20260518175702.png",
-    "cyberseguridad/Imagenes/Pasted image 20260518175556.png",
     "cyberseguridad/Crear una instancia de Cloud SQL para MYSQL.md",
     "README.md",
     "Untitled.md",
@@ -238,7 +240,6 @@
     "remote-blog/publish/statically-generated.md",
     "remote-blog/publish/reinventing-the-wheel.md",
     "remote-blog/publish/publish-your-obsidian-notes-with-linked-blog-starter.md",
-    "remote-blog/publish/linked-blog-starter-does-not-reinvent-wheel.md",
     "remote-blog/publish/attachments",
     "remote-blog/publish",
     "remote-blog",
