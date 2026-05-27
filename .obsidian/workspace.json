@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cyberseguridad/Crear bucket con CLI Google Cloud.md",
+                "file": "cyberseguridad/- Crear Bucket con CLI de Google Cloud ].md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Crear bucket con CLI Google Cloud"
+              "title": "- Crear Bucket con CLI de Google Cloud ]"
             }
           }
         ]
@@ -198,12 +198,17 @@
   },
   "active": "422bc7d30f222ca6",
   "lastOpenFiles": [
+    "cyberseguridad/Imagenes/Pasted image 20260527194205.png",
+    "cyberseguridad/Crear bucket con CLI Google Cloud.md",
+    "cyberseguridad/- Crear Bucket con CLI de Google Cloud ].md",
+    "cyberseguridad/Imagenes/Pasted image 20260527194138.png",
+    "cyberseguridad/Imagenes/Pasted image 20260527194051.png",
+    "cyberseguridad/Imagenes/Pasted image 20260527194037.png",
     "cyberseguridad/Imagenes/Pasted image 20260527193652.png",
     "cyberseguridad/Crea un archivo JSON en la consola de Cloud.md",
     "cyberseguridad/PubSub Google Cloud.md",
     "cyberseguridad/Neighbour Tryhackme.md",
     "cyberseguridad/fasdfs.md",
-    "cyberseguridad/Crear bucket con CLI Google Cloud.md",
     "cyberseguridad/Imagenes/Pasted image 20260521135443.png",
     "cyberseguridad/Create a Managed Apache Spark cluster using the command line.md",
     "cyberseguridad/Imagenes/Pasted image 20260518083403.png",
@@ -215,10 +220,6 @@
     "README.md",
     "Untitled.md",
     "Untitled.base",
-    "cyberseguridad/Imagenes/Pasted image 20260519131132.png",
-    "cyberseguridad/Imagenes/Pasted image 20260519133133.png",
-    "cyberseguridad/Imagenes/Pasted image 20260519131054.png",
-    "cyberseguridad/Imagenes/Pasted image 20260519130821.png",
     "cyberseguridad/Imagenes/Pasted.md",
     "cyberseguridad/Imagenes",
     "cyberseguridad/Untitled.base",
@@ -239,7 +240,6 @@
     "remote-blog/publish/reinventing-the-wheel.md",
     "remote-blog/publish/publish-your-obsidian-notes-with-linked-blog-starter.md",
     "remote-blog/publish/linked-blog-starter-does-not-reinvent-wheel.md",
-    "remote-blog/publish/install-linked-blog-starter-locally.md",
     "remote-blog/publish/attachments",
     "remote-blog/publish",
     "remote-blog",
