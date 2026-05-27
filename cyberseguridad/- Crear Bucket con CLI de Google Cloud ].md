@@ -7,6 +7,6 @@
 
 ![](Imagenes/Pasted%20image%2020260527194138.png)
 
-Finalizamos:
+3)Finalizamos:
 
 ![](Imagenes/Pasted%20image%2020260527194205.png)
