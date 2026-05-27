@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cyberseguridad/Crea un archivo JSON en la consola de Cloud.md",
+                "file": "cyberseguridad/- Crear Bucket con CLI de Google Cloud ].md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Crea un archivo JSON en la consola de Cloud"
+              "title": "- Crear Bucket con CLI de Google Cloud ]"
             }
           }
         ]
@@ -198,8 +198,8 @@
   },
   "active": "422bc7d30f222ca6",
   "lastOpenFiles": [
-    "cyberseguridad/- Crear Bucket con CLI de Google Cloud ].md",
     "cyberseguridad/Crea un archivo JSON en la consola de Cloud.md",
+    "cyberseguridad/- Crear Bucket con CLI de Google Cloud ].md",
     "cyberseguridad/Crear bucket con CLI Google Cloud.md",
     "cyberseguridad/Imagenes/Pasted image 20260527194205.png",
     "cyberseguridad/Imagenes/Pasted image 20260527194138.png",
