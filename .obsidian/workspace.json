@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cyberseguridad/- (ENG)Create a Managed Apache Spark cluster using the command line (CLI)..md",
+                "file": "cyberseguridad/- Neighbour Tryhackme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "- (ENG)Create a Managed Apache Spark cluster using the command line (CLI)."
+              "title": "- Neighbour Tryhackme"
             }
           }
         ]
@@ -196,11 +196,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "422bc7d30f222ca6",
+  "active": "a8f58b81a54d5eef",
   "lastOpenFiles": [
-    "cyberseguridad/Imagenes/Pasted image 20260527201258.png",
-    "cyberseguridad/Create a Managed Apache Spark cluster using the command line.md",
+    "cyberseguridad/Imagenes/Pasted image 20260527201621.png",
+    "cyberseguridad/fasdfs.md",
+    "cyberseguridad/- Neighbour Tryhackme.md",
     "cyberseguridad/- (ENG)Create a Managed Apache Spark cluster using the command line (CLI)..md",
+    "cyberseguridad/Create a Managed Apache Spark cluster using the command line.md",
+    "cyberseguridad/Imagenes/Pasted image 20260527201258.png",
     "cyberseguridad/Imagenes/Pasted image 20260527201228.png",
     "cyberseguridad/Imagenes/Pasted image 20260527201148.png",
     "cyberseguridad/Imagenes/Pasted image 20260527201041.png",
@@ -215,12 +218,9 @@
     "cyberseguridad/Imagenes/Pasted image 20260527200203.png",
     "cyberseguridad/Imagenes/Pasted image 20260527200120.png",
     "cyberseguridad/Imagenes/Pasted image 20260527195930.png",
-    "cyberseguridad/Imagenes/Pasted image 20260527195857.png",
     "cyberseguridad/Crea un archivo JSON en la consola de Cloud.md",
     "cyberseguridad/Crear bucket con CLI Google Cloud.md",
     "cyberseguridad/PubSub Google Cloud.md",
-    "cyberseguridad/Neighbour Tryhackme.md",
-    "cyberseguridad/fasdfs.md",
     "Untitled.md",
     "Untitled.base",
     "cyberseguridad/Imagenes/Pasted.md",
