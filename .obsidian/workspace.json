@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cyberseguridad/- Crear una instancia de Cloud SQL para MySQL.md",
+                "file": "cyberseguridad/- (ENG)Create a Managed Apache Spark cluster using the command line (CLI)..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "- Crear una instancia de Cloud SQL para MySQL"
+              "title": "- (ENG)Create a Managed Apache Spark cluster using the command line (CLI)."
             }
           }
         ]
@@ -196,25 +196,27 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "f7db2ee6602181b6",
+  "active": "422bc7d30f222ca6",
   "lastOpenFiles": [
-    "README.md",
-    "cyberseguridad/- Crear una instancia de Cloud SQL para MySQL.md",
+    "cyberseguridad/Imagenes/Pasted image 20260527201258.png",
     "cyberseguridad/Create a Managed Apache Spark cluster using the command line.md",
-    "cyberseguridad/- Crear Bucket con CLI de Google Cloud.md",
-    "cyberseguridad/- Crea un archivo JSON en la consola de Cloud.md",
+    "cyberseguridad/- (ENG)Create a Managed Apache Spark cluster using the command line (CLI)..md",
+    "cyberseguridad/Imagenes/Pasted image 20260527201228.png",
+    "cyberseguridad/Imagenes/Pasted image 20260527201148.png",
+    "cyberseguridad/Imagenes/Pasted image 20260527201041.png",
+    "cyberseguridad/Imagenes/Pasted image 20260527200958.png",
+    "cyberseguridad/Imagenes/Pasted image 20260527200935.png",
+    "cyberseguridad/- Crea un archivo JSON en la consola de Cloud..md",
+    "cyberseguridad/- Crear Bucket con CLI de Google Cloud..md",
+    "cyberseguridad/- Crear una instancia de Cloud SQL para MySQL.md",
+    "README.md",
     "cyberseguridad/Crear una instancia de Cloud SQL para MYSQL.md",
     "cyberseguridad/Imagenes/Pasted image 20260527200233.png",
     "cyberseguridad/Imagenes/Pasted image 20260527200203.png",
     "cyberseguridad/Imagenes/Pasted image 20260527200120.png",
     "cyberseguridad/Imagenes/Pasted image 20260527195930.png",
     "cyberseguridad/Imagenes/Pasted image 20260527195857.png",
-    "cyberseguridad/Imagenes/Pasted image 20260527195825.png",
-    "cyberseguridad/Imagenes/Pasted image 20260527195751.png",
-    "cyberseguridad/Imagenes/Pasted image 20260527195715.png",
     "cyberseguridad/Crea un archivo JSON en la consola de Cloud.md",
-    "cyberseguridad/Imagenes/Pasted image 20260527195411.png",
-    "cyberseguridad/Imagenes/Pasted image 20260527195333.png",
     "cyberseguridad/Crear bucket con CLI Google Cloud.md",
     "cyberseguridad/PubSub Google Cloud.md",
     "cyberseguridad/Neighbour Tryhackme.md",
@@ -238,7 +240,6 @@
     "remote-blog/publish/works-out-of-the-box-with-markdown-files.md",
     "remote-blog/publish/update-publish-settings-github-actions.md",
     "remote-blog/publish/statically-generated.md",
-    "remote-blog/publish/reinventing-the-wheel.md",
     "remote-blog/publish/attachments",
     "remote-blog/publish",
     "remote-blog",

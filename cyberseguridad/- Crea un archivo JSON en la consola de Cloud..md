@@ -1,4 +1,3 @@
-
 1)En Cloud Shell, ejecutamos el siguiente comando para crear y editar un archivo llamado values.json y le hacemos nano para editar.
 
 2)Ejecutamos nano para editar el .json:

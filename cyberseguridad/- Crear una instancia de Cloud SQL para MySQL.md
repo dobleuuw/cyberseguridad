@@ -1,5 +1,4 @@
-
- 1)Nos conectamos a Google Cloud y verificamos el proyecto a utilizar:
+1)Nos conectamos a Google Cloud y verificamos el proyecto a utilizar:
  
  ![](Imagenes/Pasted%20image%2020260527195715.png)
  
