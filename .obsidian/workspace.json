@@ -196,11 +196,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "a8f58b81a54d5eef",
+  "active": "422bc7d30f222ca6",
   "lastOpenFiles": [
+    "README.md",
+    "cyberseguridad/- PubSub Google Cloud.md",
     "cyberseguridad/- Neighbour Tryhackme.md",
     "cyberseguridad/- Crear una instancia de Cloud SQL para MySQL.md",
-    "cyberseguridad/- PubSub Google Cloud.md",
     "cyberseguridad/- (ENG)Create a Managed Apache Spark cluster using the command line (CLI)..md",
     "cyberseguridad/PubSub Google Cloud.md",
     "cyberseguridad/Imagenes/Pasted image 20260527202726.png",
@@ -215,7 +216,6 @@
     "cyberseguridad/Imagenes/Pasted image 20260527202206.png",
     "cyberseguridad/- Crear Bucket con CLI de Google Cloud..md",
     "cyberseguridad/- Crea un archivo JSON en la consola de Cloud..md",
-    "README.md",
     "cyberseguridad/fasdfs.md",
     "cyberseguridad/Create a Managed Apache Spark cluster using the command line.md",
     "cyberseguridad/Crear una instancia de Cloud SQL para MYSQL.md",
