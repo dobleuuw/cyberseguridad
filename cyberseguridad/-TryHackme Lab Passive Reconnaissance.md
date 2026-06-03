@@ -1,4 +1,4 @@
-Abrimos la VM de HackTheBox
+Abrimos la VM de THM
 ![](Imagenes/Pasted%20image%2020260602174601.png)
 
 Completamos las preguntas con la info que ya tenemos:
