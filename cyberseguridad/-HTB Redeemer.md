@@ -24,3 +24,4 @@ Nos conectamos a la base de datos Redis con el comando redis-cli -h ip, luego ob
 
 ![](cyberseguridad/Imagenes/Captura%20de%20pantalla%202026-07-15%20095003.png)
 ![](cyberseguridad/Imagenes/Captura%20de%20pantalla%202026-07-15%20095058.png)
+Fin.
