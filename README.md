@@ -34,6 +34,9 @@ Notas, laboratorios y prácticas de mi carrera en ciberseguridad.
 - [[GCP-Apache-Spark-CLI]]
 - [[GCP-PubSub]]
 
+### Informes
+- [[AIEP-Prueba2-Informe]]
+
 ### Metodología
 - [[Nmap-Cheatsheet]]
 
