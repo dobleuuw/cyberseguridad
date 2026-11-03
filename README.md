@@ -41,4 +41,7 @@ Notas, laboratorios y prácticas de mi carrera en ciberseguridad.
 - [[Nmap-Cheatsheet]]
 
 ---
-*All projects/tests I'm doing in my Cybersecurity career.*
+Notas y write-ups de mi camino en ciberseguridad — estudiante de pentesting.
+Plataformas: HTB · TryHackMe · AIEP · Google Cloud.
+
+🔗 GitHub: [@dobleuuw](https://github.com/dobleuuw)  ·  Contenido educativo, uso ético.
