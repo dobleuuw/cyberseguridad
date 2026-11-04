@@ -15,4 +15,23 @@
 
 ![](../_attachments/Pasted%20image%2020261104111445.png)
 
-6. **Cuantos servicios están corriendo en el puerto con MQTT** 
+6. **Cuantos servicios están corriendo en el puerto con MQTT**: según mi lab no hay servicios corriendo en el puerto con MQTT puerto 58080.
+
+7. **Cual es la flag que se encuentra explotando la vulnerabilidad SQLi.**: abrimos la web e ingresamos en Usuario el SQLi ' OR 1=1-- - con clave "x", procedemos a acceder con SuperAdmin y encontramos la flag.
+   ![](../_attachments/Pasted%20image%2020261104115121.png)
+**Rol: SuperAdmin**
+
+**FLAG{SQLI_AUTH_BYPASS_FOUND}**
+
+9. **Cual es la flag que se encuentra explotando la vulnerabilidad de Path**  
+**Traversal. (etc/flag.txt).**
+   
+   Intentamos ingresar el Path Traversal ../../../etc/flag.txt![](../_attachments/Pasted%20image%2020261104115536.png)
+![](../_attachments/Pasted%20image%2020261104120355.png)
+
+9. Obtenemos la flag.![](../_attachments/Pasted%20image%2020261104115846.png)
+
+
+10. Cuál es la flag que se encuentra explotando la vulnerabilidad SSRF.  
+(srv_internal_api:8888):
+
