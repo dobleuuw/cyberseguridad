@@ -18,27 +18,27 @@ Notas, laboratorios y prácticas de mi carrera en ciberseguridad.
 ## 🗂️ Índice de notas
 
 ### Hack The Box
-- [[HTB-Redeemer]]
+- [HTB — Redeemer](02-HTB/HTB-Redeemer.md)
 
 ### TryHackMe
-- [[THM-Neighbour]]
-- [[THM-Passive-Reconnaissance]]
+- [THM — Neighbour](03-TryHackMe/THM-Neighbour.md)
+- [THM — Passive Reconnaissance](03-TryHackMe/THM-Passive-Reconnaissance.md)
 
 ### AIEP
-- [[AIEP-3.2.6-Enumeracion-Nmap]]
+- [AIEP 3.2.6 — Enumeración con Nmap](04-AIEP/AIEP-3.2.6-Enumeracion-Nmap.md)
 
 ### Google Cloud
-- [[GCP-Crear-archivo-JSON]]
-- [[GCP-Crear-Bucket-CLI]]
-- [[GCP-Instancia-CloudSQL-MySQL]]
-- [[GCP-Apache-Spark-CLI]]
-- [[GCP-PubSub]]
+- [GCP — Crear archivo JSON](05-GoogleCloud/GCP-Crear-archivo-JSON.md)
+- [GCP — Crear Bucket (CLI)](05-GoogleCloud/GCP-Crear-Bucket-CLI.md)
+- [GCP — Instancia Cloud SQL (MySQL)](05-GoogleCloud/GCP-Instancia-CloudSQL-MySQL.md)
+- [GCP — Apache Spark (CLI)](05-GoogleCloud/GCP-Apache-Spark-CLI.md)
+- [GCP — Pub/Sub](05-GoogleCloud/GCP-PubSub.md)
 
 ### Informes
-- [[AIEP-Prueba2-Informe]]
+- [AIEP — Informe Prueba 2](99-Informes/AIEP-Prueba2-Informe.md)
 
 ### Metodología
-- [[Nmap-Cheatsheet]]
+- [Nmap — Cheatsheet](01-Metodologia/Nmap-Cheatsheet.md)
 
 ---
 Notas y write-ups de mi camino en ciberseguridad — estudiante de pentesting.
